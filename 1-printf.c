@@ -4,7 +4,7 @@
 /**
  * _printf - print the format specifiers "d" and "i"
  * @d: first format specifier
- * @i: second forma
+ * @i: second format
  */
 
 int _printf(const char *format, ...)
